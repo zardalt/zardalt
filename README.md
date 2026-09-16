@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello
+
+I'm Akanimo, a computer engineering student and a frontend developer based in Nigeria.
+
+My current tech stack is React, Javascript, HTML and TailwindCSS
+
+Apart from those, I also like to code random logical projects that may not have anything to do with frontend. I'm currently coding a chess game using Typescript.
 
 <!--
 **zardalt/zardalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
