@@ -1,7 +1,10 @@
 # zardalt
-Hey guys
+<img width="480" height="480" alt="Animation Smile GIF" src="https://github.com/user-attachments/assets/15ebe38e-4b12-406a-8018-9458889b2c13" />
+Hey guys 👋
 
 ## About Me
+<img width="480" height="360" alt="Coding Work From Home GIF by Domme Space" src="https://github.com/user-attachments/assets/e2f06a3b-b4ad-4fb6-a7e6-74168594c8e9" />
+
 - I am currently a Computer Engineering Student in the University of Uyo, Nigeria. I've been in love with computers and how they work all my life.
 - I'm a Frontend Developer and I love completing frontend challenges especially from Frontend Mentor.
 - I'm aspiring to become a Fullstack Developer eventually so this means I will start dabbling into backend development pretty soon.
@@ -17,6 +20,7 @@ Hey guys
 <img align="left" alt="Bash" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Github" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<br />
 
 ## Links
 [dev.to](https://dev.to/zardalt)
