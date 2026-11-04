@@ -1,22 +1,23 @@
-## Hello
+# zardalt
+Hey guys
 
-I'm Akanimo, a computer engineering student and a frontend developer based in Nigeria.
+## About Me
+- I am currently a Computer Engineering Student in the University of Uyo, Nigeria. I've been in love with computers and how they work all my life.
+- I'm a Frontend Developer and I love completing frontend challenges especially from Frontend Mentor.
+- I'm aspiring to become a Fullstack Developer eventually so this means I will start dabbling into backend development pretty soon.
 
-My current tech stack is React, Javascript, HTML and TailwindCSS
+## Languages and Tools
+<img align="left" alt="React" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Typescript" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="TailwindCSS" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="Vitest" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" />
+<img align="left" alt="HTML5" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="Javascript" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Github" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-Apart from those, I also like to code random logical projects that may not have anything to do with frontend. I'm currently coding a chess game using Typescript.
-
-<!--
-**zardalt/zardalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+[dev.to](https://dev.to/zardalt)
+[frontendmentor.io](https://frontendmentor.io/zardalt)
