@@ -1,10 +1,9 @@
 # zardalt
-<img align="center" width="120" height="120" alt="Animation Smile GIF" src="https://github.com/user-attachments/assets/15ebe38e-4b12-406a-8018-9458889b2c13" />
-<br />
+<img style="display: block; text-align: center" width="200" height="200" alt="Animation Smile GIF" src="https://github.com/user-attachments/assets/15ebe38e-4b12-406a-8018-9458889b2c13" />
 Hey guys 👋
 
 ## About Me
-<img align="center" width="120" height="120" alt="Coding Work From Home GIF by Domme Space" src="https://github.com/user-attachments/assets/e2f06a3b-b4ad-4fb6-a7e6-74168594c8e9" />
+<img style="display: block; text-align: center" width="200" height="200" alt="Coding Work From Home GIF by Domme Space" src="https://github.com/user-attachments/assets/e2f06a3b-b4ad-4fb6-a7e6-74168594c8e9" />
 
 - I am currently a Computer Engineering Student in the University of Uyo, Nigeria. I've been in love with computers and how they work all my life.
 - I'm a Frontend Developer and I love completing frontend challenges especially from Frontend Mentor.
