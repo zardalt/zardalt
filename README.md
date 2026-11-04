@@ -22,11 +22,13 @@ Hey guys 👋
 <img align="left" alt="Github" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
+<br />
 
 ## Latest Project - Foreign Exchange Converter
 ![](https://github.com/zardalt/foreign_exchange_checker/blob/main/image.png)
 
 This site was made with React, Typescript, the Frankfurter API as well as chartjs package for charts
+[Foreign Exchange Checker Repo](https://github.com/zardalt/foreign_exchange_checker/)
 
 ## Links
 [dev.to](https://dev.to/zardalt)
